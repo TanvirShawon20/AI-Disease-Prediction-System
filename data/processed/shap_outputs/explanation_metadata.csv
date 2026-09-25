@@ -1,0 +1,7 @@
+Item,Value
+Explained Disease Class,Impetigo
+Selected Class Index,27
+Local Predicted Disease,Chicken pox
+Local Actual Disease,Chicken pox
+Local Predicted Probability,0.782275761140463
+Local Explained Class Probability,0.003446649519409894

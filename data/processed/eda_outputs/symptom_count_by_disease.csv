@@ -1,0 +1,42 @@
+Disease,mean,median,min,max
+Common Cold,16.6,17.0,16,17
+Tuberculosis,15.6,16.0,15,16
+Dengue,13.55,14.0,13,14
+Hepatitis E,12.6,13.0,12,13
+Hypothyroidism,12.6,13.0,12,13
+Hypoglycemia,11.6,12.0,11,12
+Hepatitis B,11.6,12.0,11,12
+Hyperthyroidism,10.6,11.0,10,11
+Pneumonia,10.6,11.0,10,11
+hepatitis A,10.6,11.0,10,11
+Typhoid,10.6,11.0,10,11
+Chicken pox,10.55,11.0,10,11
+Diabetes ,9.6,10.0,9,10
+Hepatitis D,8.55,9.0,8,9
+Migraine,8.55,9.0,8,9
+Jaundice,7.6,8.0,7,8
+Malaria,7.6,8.0,7,8
+Chronic cholestasis,6.65,7.0,6,7
+Alcoholic hepatitis,6.65,7.0,6,7
+Varicose veins,6.6,7.0,6,7
+Osteoarthristis,5.7,6.0,5,6
+Psoriasis,5.7,6.0,5,6
+Hepatitis C,5.65,6.0,5,6
+(vertigo) Paroymsal  Positional Vertigo,5.65,6.0,5,6
+Bronchial Asthma,5.6,6.0,5,6
+Peptic ulcer diseae,5.6,6.0,5,6
+GERD,5.55,6.0,5,6
+Arthritis,4.75,5.0,4,5
+Dimorphic hemmorhoids(piles),4.75,5.0,4,5
+Impetigo,4.65,5.0,4,5
+Cervical spondylosis,4.65,5.0,4,5
+Hypertension ,4.6,5.0,4,5
+Drug Reaction,4.55,5.0,4,5
+Paralysis (brain hemorrhage),3.65,4.0,3,4
+Acne,3.65,4.0,3,4
+AIDS,3.65,4.0,3,4
+Gastroenteritis,3.65,4.0,3,4
+Urinary tract infection,3.65,4.0,3,4
+Heart attack,3.65,4.0,3,4
+Allergy,3.6,4.0,3,4
+Fungal infection,3.6,4.0,3,4

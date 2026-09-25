@@ -1,0 +1,8 @@
+Metric,Value
+Model,SVM
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1,1.0
+CV Macro F1 Mean,0.9687243107769422
+CV Macro F1 Std,0.03406468348285809
