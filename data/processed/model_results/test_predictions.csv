@@ -1,0 +1,997 @@
+Actual_Disease,Predicted_Disease
+Fungal infection,Fungal infection
+Fungal infection,Fungal infection
+Allergy,Allergy
+Allergy,Allergy
+GERD,GERD
+GERD,GERD
+Chronic cholestasis,Chronic cholestasis
+Drug Reaction,Drug Reaction
+Peptic ulcer diseae,Peptic ulcer diseae
+Peptic ulcer diseae,Peptic ulcer diseae
+AIDS,AIDS
+AIDS,AIDS
+Diabetes ,Diabetes 
+Diabetes ,Diabetes 
+Gastroenteritis,Gastroenteritis
+Gastroenteritis,Gastroenteritis
+Bronchial Asthma,Bronchial Asthma
+Bronchial Asthma,Bronchial Asthma
+Hypertension ,Hypertension 
+Hypertension ,Hypertension 
+Migraine,Migraine
+Migraine,Migraine
+Cervical spondylosis,Cervical spondylosis
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+Jaundice,Jaundice
+Jaundice,Jaundice
+Malaria,Malaria
+Malaria,Malaria
+Chicken pox,Chicken pox
+Chicken pox,Chicken pox
+Dengue,Dengue
+Dengue,Dengue
+Typhoid,Typhoid
+Typhoid,Typhoid
+hepatitis A,hepatitis A
+hepatitis A,hepatitis A
+Hepatitis B,Hepatitis B
+Hepatitis B,Hepatitis B
+Hepatitis C,Hepatitis C
+Hepatitis D,Hepatitis D
+Hepatitis E,Hepatitis E
+Hepatitis E,Hepatitis E
+Alcoholic hepatitis,Alcoholic hepatitis
+Alcoholic hepatitis,Alcoholic hepatitis
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Tuberculosis,Tuberculosis
+Common Cold,Common Cold
+Common Cold,Common Cold
+Pneumonia,Pneumonia
+Pneumonia,Pneumonia
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles)
+Heart attack,Heart attack
+Varicose veins,Varicose veins
+Varicose veins,Varicose veins
+Hypothyroidism,Hypothyroidism
+Hypothyroidism,Hypothyroidism
+Hyperthyroidism,Hyperthyroidism
+Hyperthyroidism,Hyperthyroidism
+Hypoglycemia,Hypoglycemia
+Hypoglycemia,Hypoglycemia
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Arthritis,Arthritis
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo
+Acne,Acne
+Urinary tract infection,Urinary tract infection
+Psoriasis,Psoriasis
+Psoriasis,Psoriasis
+Impetigo,Impetigo
+Impetigo,Impetigo
+Impetigo,Impetigo
+Fungal infection,Fungal infection
+Fungal infection,Fungal infection
+Allergy,Allergy
+Allergy,Allergy
+GERD,GERD
+GERD,GERD
+Chronic cholestasis,Chronic cholestasis
+Drug Reaction,Drug Reaction
+Peptic ulcer diseae,Peptic ulcer diseae
+Peptic ulcer diseae,Peptic ulcer diseae
+AIDS,AIDS
+AIDS,AIDS
+Diabetes ,Diabetes 
+Diabetes ,Diabetes 
+Gastroenteritis,Gastroenteritis
+Gastroenteritis,Gastroenteritis
+Bronchial Asthma,Bronchial Asthma
+Bronchial Asthma,Bronchial Asthma
+Hypertension ,Hypertension 
+Hypertension ,Hypertension 
+Migraine,Migraine
+Migraine,Migraine
+Cervical spondylosis,Cervical spondylosis
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+Jaundice,Jaundice
+Jaundice,Jaundice
+Malaria,Malaria
+Malaria,Malaria
+Chicken pox,Chicken pox
+Chicken pox,Chicken pox
+Dengue,Dengue
+Dengue,Dengue
+Typhoid,Typhoid
+Typhoid,Typhoid
+hepatitis A,hepatitis A
+hepatitis A,hepatitis A
+Hepatitis B,Hepatitis B
+Hepatitis B,Hepatitis B
+Hepatitis C,Hepatitis C
+Hepatitis D,Hepatitis D
+Hepatitis E,Hepatitis E
+Hepatitis E,Hepatitis E
+Alcoholic hepatitis,Alcoholic hepatitis
+Alcoholic hepatitis,Alcoholic hepatitis
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Tuberculosis,Tuberculosis
+Common Cold,Common Cold
+Common Cold,Common Cold
+Pneumonia,Pneumonia
+Pneumonia,Pneumonia
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles)
+Heart attack,Heart attack
+Varicose veins,Varicose veins
+Varicose veins,Varicose veins
+Hypothyroidism,Hypothyroidism
+Hypothyroidism,Hypothyroidism
+Hyperthyroidism,Hyperthyroidism
+Hyperthyroidism,Hyperthyroidism
+Hypoglycemia,Hypoglycemia
+Hypoglycemia,Hypoglycemia
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Arthritis,Arthritis
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo
+Acne,Acne
+Urinary tract infection,Urinary tract infection
+Psoriasis,Psoriasis
+Psoriasis,Psoriasis
+Impetigo,Impetigo
+Impetigo,Impetigo
+Impetigo,Impetigo
+Fungal infection,Fungal infection
+Fungal infection,Fungal infection
+Allergy,Allergy
+Allergy,Allergy
+GERD,GERD
+GERD,GERD
+Chronic cholestasis,Chronic cholestasis
+Drug Reaction,Drug Reaction
+Peptic ulcer diseae,Peptic ulcer diseae
+Peptic ulcer diseae,Peptic ulcer diseae
+AIDS,AIDS
+AIDS,AIDS
+Diabetes ,Diabetes 
+Diabetes ,Diabetes 
+Gastroenteritis,Gastroenteritis
+Gastroenteritis,Gastroenteritis
+Bronchial Asthma,Bronchial Asthma
+Bronchial Asthma,Bronchial Asthma
+Hypertension ,Hypertension 
+Hypertension ,Hypertension 
+Migraine,Migraine
+Migraine,Migraine
+Cervical spondylosis,Cervical spondylosis
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+Jaundice,Jaundice
+Jaundice,Jaundice
+Malaria,Malaria
+Malaria,Malaria
+Chicken pox,Chicken pox
+Chicken pox,Chicken pox
+Dengue,Dengue
+Dengue,Dengue
+Typhoid,Typhoid
+Typhoid,Typhoid
+hepatitis A,hepatitis A
+hepatitis A,hepatitis A
+Hepatitis B,Hepatitis B
+Hepatitis B,Hepatitis B
+Hepatitis C,Hepatitis C
+Hepatitis D,Hepatitis D
+Hepatitis E,Hepatitis E
+Hepatitis E,Hepatitis E
+Alcoholic hepatitis,Alcoholic hepatitis
+Alcoholic hepatitis,Alcoholic hepatitis
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Tuberculosis,Tuberculosis
+Common Cold,Common Cold
+Common Cold,Common Cold
+Pneumonia,Pneumonia
+Pneumonia,Pneumonia
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles)
+Heart attack,Heart attack
+Varicose veins,Varicose veins
+Varicose veins,Varicose veins
+Hypothyroidism,Hypothyroidism
+Hypothyroidism,Hypothyroidism
+Hyperthyroidism,Hyperthyroidism
+Hyperthyroidism,Hyperthyroidism
+Hypoglycemia,Hypoglycemia
+Hypoglycemia,Hypoglycemia
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Arthritis,Arthritis
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo
+Acne,Acne
+Urinary tract infection,Urinary tract infection
+Psoriasis,Psoriasis
+Psoriasis,Psoriasis
+Impetigo,Impetigo
+Impetigo,Impetigo
+Impetigo,Impetigo
+Fungal infection,Fungal infection
+Fungal infection,Fungal infection
+Allergy,Allergy
+Allergy,Allergy
+GERD,GERD
+GERD,GERD
+Chronic cholestasis,Chronic cholestasis
+Drug Reaction,Drug Reaction
+Peptic ulcer diseae,Peptic ulcer diseae
+Peptic ulcer diseae,Peptic ulcer diseae
+AIDS,AIDS
+AIDS,AIDS
+Diabetes ,Diabetes 
+Diabetes ,Diabetes 
+Gastroenteritis,Gastroenteritis
+Gastroenteritis,Gastroenteritis
+Bronchial Asthma,Bronchial Asthma
+Bronchial Asthma,Bronchial Asthma
+Hypertension ,Hypertension 
+Hypertension ,Hypertension 
+Migraine,Migraine
+Migraine,Migraine
+Cervical spondylosis,Cervical spondylosis
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+Jaundice,Jaundice
+Jaundice,Jaundice
+Malaria,Malaria
+Malaria,Malaria
+Chicken pox,Chicken pox
+Chicken pox,Chicken pox
+Dengue,Dengue
+Dengue,Dengue
+Typhoid,Typhoid
+Typhoid,Typhoid
+hepatitis A,hepatitis A
+hepatitis A,hepatitis A
+Hepatitis B,Hepatitis B
+Hepatitis B,Hepatitis B
+Hepatitis C,Hepatitis C
+Hepatitis D,Hepatitis D
+Hepatitis E,Hepatitis E
+Hepatitis E,Hepatitis E
+Alcoholic hepatitis,Alcoholic hepatitis
+Alcoholic hepatitis,Alcoholic hepatitis
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Tuberculosis,Tuberculosis
+Common Cold,Common Cold
+Common Cold,Common Cold
+Pneumonia,Pneumonia
+Pneumonia,Pneumonia
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles)
+Heart attack,Heart attack
+Varicose veins,Varicose veins
+Varicose veins,Varicose veins
+Hypothyroidism,Hypothyroidism
+Hypothyroidism,Hypothyroidism
+Hyperthyroidism,Hyperthyroidism
+Hyperthyroidism,Hyperthyroidism
+Hypoglycemia,Hypoglycemia
+Hypoglycemia,Hypoglycemia
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Arthritis,Arthritis
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo
+Acne,Acne
+Urinary tract infection,Urinary tract infection
+Psoriasis,Psoriasis
+Psoriasis,Psoriasis
+Impetigo,Impetigo
+Impetigo,Impetigo
+Impetigo,Impetigo
+Fungal infection,Fungal infection
+Fungal infection,Fungal infection
+Allergy,Allergy
+Allergy,Allergy
+GERD,GERD
+GERD,GERD
+Chronic cholestasis,Chronic cholestasis
+Drug Reaction,Drug Reaction
+Peptic ulcer diseae,Peptic ulcer diseae
+Peptic ulcer diseae,Peptic ulcer diseae
+AIDS,AIDS
+AIDS,AIDS
+Diabetes ,Diabetes 
+Diabetes ,Diabetes 
+Gastroenteritis,Gastroenteritis
+Gastroenteritis,Gastroenteritis
+Bronchial Asthma,Bronchial Asthma
+Bronchial Asthma,Bronchial Asthma
+Hypertension ,Hypertension 
+Hypertension ,Hypertension 
+Migraine,Migraine
+Migraine,Migraine
+Cervical spondylosis,Cervical spondylosis
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+Jaundice,Jaundice
+Jaundice,Jaundice
+Malaria,Malaria
+Malaria,Malaria
+Chicken pox,Chicken pox
+Chicken pox,Chicken pox
+Dengue,Dengue
+Dengue,Dengue
+Typhoid,Typhoid
+Typhoid,Typhoid
+hepatitis A,hepatitis A
+hepatitis A,hepatitis A
+Hepatitis B,Hepatitis B
+Hepatitis B,Hepatitis B
+Hepatitis C,Hepatitis C
+Hepatitis D,Hepatitis D
+Hepatitis E,Hepatitis E
+Hepatitis E,Hepatitis E
+Alcoholic hepatitis,Alcoholic hepatitis
+Alcoholic hepatitis,Alcoholic hepatitis
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Tuberculosis,Tuberculosis
+Common Cold,Common Cold
+Common Cold,Common Cold
+Pneumonia,Pneumonia
+Pneumonia,Pneumonia
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles)
+Heart attack,Heart attack
+Varicose veins,Varicose veins
+Varicose veins,Varicose veins
+Hypothyroidism,Hypothyroidism
+Hypothyroidism,Hypothyroidism
+Hyperthyroidism,Hyperthyroidism
+Hyperthyroidism,Hyperthyroidism
+Hypoglycemia,Hypoglycemia
+Hypoglycemia,Hypoglycemia
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Arthritis,Arthritis
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo
+Acne,Acne
+Urinary tract infection,Urinary tract infection
+Psoriasis,Psoriasis
+Psoriasis,Psoriasis
+Impetigo,Impetigo
+Impetigo,Impetigo
+Impetigo,Impetigo
+Fungal infection,Fungal infection
+Fungal infection,Fungal infection
+Allergy,Allergy
+Allergy,Allergy
+GERD,GERD
+GERD,GERD
+Chronic cholestasis,Chronic cholestasis
+Drug Reaction,Drug Reaction
+Peptic ulcer diseae,Peptic ulcer diseae
+Peptic ulcer diseae,Peptic ulcer diseae
+AIDS,AIDS
+AIDS,AIDS
+Diabetes ,Diabetes 
+Diabetes ,Diabetes 
+Gastroenteritis,Gastroenteritis
+Gastroenteritis,Gastroenteritis
+Bronchial Asthma,Bronchial Asthma
+Bronchial Asthma,Bronchial Asthma
+Hypertension ,Hypertension 
+Hypertension ,Hypertension 
+Migraine,Migraine
+Migraine,Migraine
+Cervical spondylosis,Cervical spondylosis
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage)
+Jaundice,Jaundice
+Jaundice,Jaundice
+Malaria,Malaria
+Malaria,Malaria
+Chicken pox,Chicken pox
+Chicken pox,Chicken pox
+Dengue,Dengue
+Dengue,Dengue
+Typhoid,Typhoid
+Typhoid,Typhoid
+hepatitis A,hepatitis A
+hepatitis A,hepatitis A
+Hepatitis B,Hepatitis B
+Hepatitis B,Hepatitis B
+Hepatitis C,Hepatitis C
+Hepatitis D,Hepatitis D
+Hepatitis E,Hepatitis E
+Hepatitis E,Hepatitis E
+Alcoholic hepatitis,Alcoholic hepatitis
+Alcoholic hepatitis,Alcoholic hepatitis
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Tuberculosis,Tuberculosis
+Common Cold,Common Cold
+Common Cold,Common Cold
+Pneumonia,Pneumonia
+Pneumonia,Pneumonia
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles)
+Heart attack,Heart attack
+Varicose veins,Varicose veins
+Varicose veins,Varicose veins
+Hypothyroidism,Hypothyroidism
+Hypothyroidism,Hypothyroidism
+Hyperthyroidism,Hyperthyroidism
+Hyperthyroidism,Hyperthyroidism
+Hypoglycemia,Hypoglycemia
+Hypoglycemia,Hypoglycemia
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Osteoarthristis,Osteoarthristis
+Arthritis,Arthritis
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo
+Acne,Acne
+Urinary tract infection,Urinary tract infection
+Psoriasis,Psoriasis
+Psoriasis,Psoriasis
+Impetigo,Impetigo
+Impetigo,Impetigo
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo
+Drug Reaction,Drug Reaction
+Hepatitis B,Hepatitis B
+Hepatitis D,Hepatitis D
+Alcoholic hepatitis,Alcoholic hepatitis
+Tuberculosis,Tuberculosis
+Varicose veins,Varicose veins
+Hyperthyroidism,Hyperthyroidism
+Osteoarthristis,Osteoarthristis
+Impetigo,Impetigo

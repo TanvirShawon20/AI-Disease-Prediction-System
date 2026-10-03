@@ -1,0 +1,16 @@
+Property,Value
+Dataset rows,4920
+Feature count,18
+Disease classes,41
+Training samples,3924
+Test samples,996
+Cross-validation,StratifiedGroupKFold
+CV folds,5
+Primary metric,Macro F1
+Selected model,KNN
+CV Macro F1,0.984
+Test Accuracy,1.0
+Test Macro Precision,1.0
+Test Macro Recall,1.0
+Test Macro F1,1.0
+Model file,..\models\disease_prediction_model.pkl

@@ -1,0 +1,5 @@
+Metric,Cross-Validation,Final Test
+Accuracy,0.9632178508514386,1.0
+Macro Precision,0.9826358203200307,1.0
+Macro Recall,0.989608636977058,1.0
+Macro F1,0.9840418353576249,1.0
