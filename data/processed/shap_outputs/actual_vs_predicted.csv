@@ -1,0 +1,997 @@
+Actual_Disease,Predicted_Disease,Confidence,Correct
+Fungal infection,Fungal infection,1.0,True
+Fungal infection,Fungal infection,1.0,True
+Allergy,Allergy,1.0,True
+Allergy,Allergy,1.0,True
+GERD,GERD,1.0,True
+GERD,GERD,1.0,True
+Chronic cholestasis,Chronic cholestasis,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Peptic ulcer diseae,Peptic ulcer diseae,1.0,True
+Peptic ulcer diseae,Peptic ulcer diseae,1.0,True
+AIDS,AIDS,1.0,True
+AIDS,AIDS,1.0,True
+Diabetes ,Diabetes ,1.0,True
+Diabetes ,Diabetes ,1.0,True
+Gastroenteritis,Gastroenteritis,1.0,True
+Gastroenteritis,Gastroenteritis,1.0,True
+Bronchial Asthma,Bronchial Asthma,1.0,True
+Bronchial Asthma,Bronchial Asthma,1.0,True
+Hypertension ,Hypertension ,1.0,True
+Hypertension ,Hypertension ,1.0,True
+Migraine,Migraine,1.0,True
+Migraine,Migraine,1.0,True
+Cervical spondylosis,Cervical spondylosis,1.0,True
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage),1.0,True
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage),1.0,True
+Jaundice,Jaundice,1.0,True
+Jaundice,Jaundice,1.0,True
+Malaria,Malaria,1.0,True
+Malaria,Malaria,1.0,True
+Chicken pox,Chicken pox,1.0,True
+Chicken pox,Chicken pox,1.0,True
+Dengue,Dengue,1.0,True
+Dengue,Dengue,1.0,True
+Typhoid,Typhoid,1.0,True
+Typhoid,Typhoid,1.0,True
+hepatitis A,hepatitis A,1.0,True
+hepatitis A,hepatitis A,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis C,Hepatitis C,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Hepatitis E,Hepatitis E,1.0,True
+Hepatitis E,Hepatitis E,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Common Cold,Common Cold,1.0,True
+Common Cold,Common Cold,1.0,True
+Pneumonia,Pneumonia,1.0,True
+Pneumonia,Pneumonia,1.0,True
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles),1.0,True
+Heart attack,Heart attack,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hypothyroidism,Hypothyroidism,1.0,True
+Hypothyroidism,Hypothyroidism,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Hypoglycemia,Hypoglycemia,1.0,True
+Hypoglycemia,Hypoglycemia,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Arthritis,Arthritis,1.0,True
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo,1.0,True
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo,1.0,True
+Acne,Acne,1.0,True
+Urinary tract infection,Urinary tract infection,1.0,True
+Psoriasis,Psoriasis,1.0,True
+Psoriasis,Psoriasis,1.0,True
+Impetigo,Impetigo,1.0,True
+Impetigo,Impetigo,1.0,True
+Impetigo,Impetigo,1.0,True
+Fungal infection,Fungal infection,1.0,True
+Fungal infection,Fungal infection,1.0,True
+Allergy,Allergy,1.0,True
+Allergy,Allergy,1.0,True
+GERD,GERD,1.0,True
+GERD,GERD,1.0,True
+Chronic cholestasis,Chronic cholestasis,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Peptic ulcer diseae,Peptic ulcer diseae,1.0,True
+Peptic ulcer diseae,Peptic ulcer diseae,1.0,True
+AIDS,AIDS,1.0,True
+AIDS,AIDS,1.0,True
+Diabetes ,Diabetes ,1.0,True
+Diabetes ,Diabetes ,1.0,True
+Gastroenteritis,Gastroenteritis,1.0,True
+Gastroenteritis,Gastroenteritis,1.0,True
+Bronchial Asthma,Bronchial Asthma,1.0,True
+Bronchial Asthma,Bronchial Asthma,1.0,True
+Hypertension ,Hypertension ,1.0,True
+Hypertension ,Hypertension ,1.0,True
+Migraine,Migraine,1.0,True
+Migraine,Migraine,1.0,True
+Cervical spondylosis,Cervical spondylosis,1.0,True
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage),1.0,True
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage),1.0,True
+Jaundice,Jaundice,1.0,True
+Jaundice,Jaundice,1.0,True
+Malaria,Malaria,1.0,True
+Malaria,Malaria,1.0,True
+Chicken pox,Chicken pox,1.0,True
+Chicken pox,Chicken pox,1.0,True
+Dengue,Dengue,1.0,True
+Dengue,Dengue,1.0,True
+Typhoid,Typhoid,1.0,True
+Typhoid,Typhoid,1.0,True
+hepatitis A,hepatitis A,1.0,True
+hepatitis A,hepatitis A,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis C,Hepatitis C,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Hepatitis E,Hepatitis E,1.0,True
+Hepatitis E,Hepatitis E,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Common Cold,Common Cold,1.0,True
+Common Cold,Common Cold,1.0,True
+Pneumonia,Pneumonia,1.0,True
+Pneumonia,Pneumonia,1.0,True
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles),1.0,True
+Heart attack,Heart attack,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hypothyroidism,Hypothyroidism,1.0,True
+Hypothyroidism,Hypothyroidism,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Hypoglycemia,Hypoglycemia,1.0,True
+Hypoglycemia,Hypoglycemia,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Arthritis,Arthritis,1.0,True
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo,1.0,True
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo,1.0,True
+Acne,Acne,1.0,True
+Urinary tract infection,Urinary tract infection,1.0,True
+Psoriasis,Psoriasis,1.0,True
+Psoriasis,Psoriasis,1.0,True
+Impetigo,Impetigo,1.0,True
+Impetigo,Impetigo,1.0,True
+Impetigo,Impetigo,1.0,True
+Fungal infection,Fungal infection,1.0,True
+Fungal infection,Fungal infection,1.0,True
+Allergy,Allergy,1.0,True
+Allergy,Allergy,1.0,True
+GERD,GERD,1.0,True
+GERD,GERD,1.0,True
+Chronic cholestasis,Chronic cholestasis,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Peptic ulcer diseae,Peptic ulcer diseae,1.0,True
+Peptic ulcer diseae,Peptic ulcer diseae,1.0,True
+AIDS,AIDS,1.0,True
+AIDS,AIDS,1.0,True
+Diabetes ,Diabetes ,1.0,True
+Diabetes ,Diabetes ,1.0,True
+Gastroenteritis,Gastroenteritis,1.0,True
+Gastroenteritis,Gastroenteritis,1.0,True
+Bronchial Asthma,Bronchial Asthma,1.0,True
+Bronchial Asthma,Bronchial Asthma,1.0,True
+Hypertension ,Hypertension ,1.0,True
+Hypertension ,Hypertension ,1.0,True
+Migraine,Migraine,1.0,True
+Migraine,Migraine,1.0,True
+Cervical spondylosis,Cervical spondylosis,1.0,True
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage),1.0,True
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage),1.0,True
+Jaundice,Jaundice,1.0,True
+Jaundice,Jaundice,1.0,True
+Malaria,Malaria,1.0,True
+Malaria,Malaria,1.0,True
+Chicken pox,Chicken pox,1.0,True
+Chicken pox,Chicken pox,1.0,True
+Dengue,Dengue,1.0,True
+Dengue,Dengue,1.0,True
+Typhoid,Typhoid,1.0,True
+Typhoid,Typhoid,1.0,True
+hepatitis A,hepatitis A,1.0,True
+hepatitis A,hepatitis A,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis C,Hepatitis C,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Hepatitis E,Hepatitis E,1.0,True
+Hepatitis E,Hepatitis E,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Common Cold,Common Cold,1.0,True
+Common Cold,Common Cold,1.0,True
+Pneumonia,Pneumonia,1.0,True
+Pneumonia,Pneumonia,1.0,True
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles),1.0,True
+Heart attack,Heart attack,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hypothyroidism,Hypothyroidism,1.0,True
+Hypothyroidism,Hypothyroidism,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Hypoglycemia,Hypoglycemia,1.0,True
+Hypoglycemia,Hypoglycemia,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Arthritis,Arthritis,1.0,True
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo,1.0,True
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo,1.0,True
+Acne,Acne,1.0,True
+Urinary tract infection,Urinary tract infection,1.0,True
+Psoriasis,Psoriasis,1.0,True
+Psoriasis,Psoriasis,1.0,True
+Impetigo,Impetigo,1.0,True
+Impetigo,Impetigo,1.0,True
+Impetigo,Impetigo,1.0,True
+Fungal infection,Fungal infection,1.0,True
+Fungal infection,Fungal infection,1.0,True
+Allergy,Allergy,1.0,True
+Allergy,Allergy,1.0,True
+GERD,GERD,1.0,True
+GERD,GERD,1.0,True
+Chronic cholestasis,Chronic cholestasis,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Peptic ulcer diseae,Peptic ulcer diseae,1.0,True
+Peptic ulcer diseae,Peptic ulcer diseae,1.0,True
+AIDS,AIDS,1.0,True
+AIDS,AIDS,1.0,True
+Diabetes ,Diabetes ,1.0,True
+Diabetes ,Diabetes ,1.0,True
+Gastroenteritis,Gastroenteritis,1.0,True
+Gastroenteritis,Gastroenteritis,1.0,True
+Bronchial Asthma,Bronchial Asthma,1.0,True
+Bronchial Asthma,Bronchial Asthma,1.0,True
+Hypertension ,Hypertension ,1.0,True
+Hypertension ,Hypertension ,1.0,True
+Migraine,Migraine,1.0,True
+Migraine,Migraine,1.0,True
+Cervical spondylosis,Cervical spondylosis,1.0,True
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage),1.0,True
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage),1.0,True
+Jaundice,Jaundice,1.0,True
+Jaundice,Jaundice,1.0,True
+Malaria,Malaria,1.0,True
+Malaria,Malaria,1.0,True
+Chicken pox,Chicken pox,1.0,True
+Chicken pox,Chicken pox,1.0,True
+Dengue,Dengue,1.0,True
+Dengue,Dengue,1.0,True
+Typhoid,Typhoid,1.0,True
+Typhoid,Typhoid,1.0,True
+hepatitis A,hepatitis A,1.0,True
+hepatitis A,hepatitis A,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis C,Hepatitis C,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Hepatitis E,Hepatitis E,1.0,True
+Hepatitis E,Hepatitis E,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Common Cold,Common Cold,1.0,True
+Common Cold,Common Cold,1.0,True
+Pneumonia,Pneumonia,1.0,True
+Pneumonia,Pneumonia,1.0,True
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles),1.0,True
+Heart attack,Heart attack,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hypothyroidism,Hypothyroidism,1.0,True
+Hypothyroidism,Hypothyroidism,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Hypoglycemia,Hypoglycemia,1.0,True
+Hypoglycemia,Hypoglycemia,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Arthritis,Arthritis,1.0,True
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo,1.0,True
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo,1.0,True
+Acne,Acne,1.0,True
+Urinary tract infection,Urinary tract infection,1.0,True
+Psoriasis,Psoriasis,1.0,True
+Psoriasis,Psoriasis,1.0,True
+Impetigo,Impetigo,1.0,True
+Impetigo,Impetigo,1.0,True
+Impetigo,Impetigo,1.0,True
+Fungal infection,Fungal infection,1.0,True
+Fungal infection,Fungal infection,1.0,True
+Allergy,Allergy,1.0,True
+Allergy,Allergy,1.0,True
+GERD,GERD,1.0,True
+GERD,GERD,1.0,True
+Chronic cholestasis,Chronic cholestasis,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Peptic ulcer diseae,Peptic ulcer diseae,1.0,True
+Peptic ulcer diseae,Peptic ulcer diseae,1.0,True
+AIDS,AIDS,1.0,True
+AIDS,AIDS,1.0,True
+Diabetes ,Diabetes ,1.0,True
+Diabetes ,Diabetes ,1.0,True
+Gastroenteritis,Gastroenteritis,1.0,True
+Gastroenteritis,Gastroenteritis,1.0,True
+Bronchial Asthma,Bronchial Asthma,1.0,True
+Bronchial Asthma,Bronchial Asthma,1.0,True
+Hypertension ,Hypertension ,1.0,True
+Hypertension ,Hypertension ,1.0,True
+Migraine,Migraine,1.0,True
+Migraine,Migraine,1.0,True
+Cervical spondylosis,Cervical spondylosis,1.0,True
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage),1.0,True
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage),1.0,True
+Jaundice,Jaundice,1.0,True
+Jaundice,Jaundice,1.0,True
+Malaria,Malaria,1.0,True
+Malaria,Malaria,1.0,True
+Chicken pox,Chicken pox,1.0,True
+Chicken pox,Chicken pox,1.0,True
+Dengue,Dengue,1.0,True
+Dengue,Dengue,1.0,True
+Typhoid,Typhoid,1.0,True
+Typhoid,Typhoid,1.0,True
+hepatitis A,hepatitis A,1.0,True
+hepatitis A,hepatitis A,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis C,Hepatitis C,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Hepatitis E,Hepatitis E,1.0,True
+Hepatitis E,Hepatitis E,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Common Cold,Common Cold,1.0,True
+Common Cold,Common Cold,1.0,True
+Pneumonia,Pneumonia,1.0,True
+Pneumonia,Pneumonia,1.0,True
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles),1.0,True
+Heart attack,Heart attack,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hypothyroidism,Hypothyroidism,1.0,True
+Hypothyroidism,Hypothyroidism,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Hypoglycemia,Hypoglycemia,1.0,True
+Hypoglycemia,Hypoglycemia,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Arthritis,Arthritis,1.0,True
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo,1.0,True
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo,1.0,True
+Acne,Acne,1.0,True
+Urinary tract infection,Urinary tract infection,1.0,True
+Psoriasis,Psoriasis,1.0,True
+Psoriasis,Psoriasis,1.0,True
+Impetigo,Impetigo,1.0,True
+Impetigo,Impetigo,1.0,True
+Impetigo,Impetigo,1.0,True
+Fungal infection,Fungal infection,1.0,True
+Fungal infection,Fungal infection,1.0,True
+Allergy,Allergy,1.0,True
+Allergy,Allergy,1.0,True
+GERD,GERD,1.0,True
+GERD,GERD,1.0,True
+Chronic cholestasis,Chronic cholestasis,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Peptic ulcer diseae,Peptic ulcer diseae,1.0,True
+Peptic ulcer diseae,Peptic ulcer diseae,1.0,True
+AIDS,AIDS,1.0,True
+AIDS,AIDS,1.0,True
+Diabetes ,Diabetes ,1.0,True
+Diabetes ,Diabetes ,1.0,True
+Gastroenteritis,Gastroenteritis,1.0,True
+Gastroenteritis,Gastroenteritis,1.0,True
+Bronchial Asthma,Bronchial Asthma,1.0,True
+Bronchial Asthma,Bronchial Asthma,1.0,True
+Hypertension ,Hypertension ,1.0,True
+Hypertension ,Hypertension ,1.0,True
+Migraine,Migraine,1.0,True
+Migraine,Migraine,1.0,True
+Cervical spondylosis,Cervical spondylosis,1.0,True
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage),1.0,True
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage),1.0,True
+Jaundice,Jaundice,1.0,True
+Jaundice,Jaundice,1.0,True
+Malaria,Malaria,1.0,True
+Malaria,Malaria,1.0,True
+Chicken pox,Chicken pox,1.0,True
+Chicken pox,Chicken pox,1.0,True
+Dengue,Dengue,1.0,True
+Dengue,Dengue,1.0,True
+Typhoid,Typhoid,1.0,True
+Typhoid,Typhoid,1.0,True
+hepatitis A,hepatitis A,1.0,True
+hepatitis A,hepatitis A,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis C,Hepatitis C,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Hepatitis E,Hepatitis E,1.0,True
+Hepatitis E,Hepatitis E,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Common Cold,Common Cold,1.0,True
+Common Cold,Common Cold,1.0,True
+Pneumonia,Pneumonia,1.0,True
+Pneumonia,Pneumonia,1.0,True
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles),1.0,True
+Heart attack,Heart attack,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hypothyroidism,Hypothyroidism,1.0,True
+Hypothyroidism,Hypothyroidism,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Hypoglycemia,Hypoglycemia,1.0,True
+Hypoglycemia,Hypoglycemia,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Arthritis,Arthritis,1.0,True
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo,1.0,True
+(vertigo) Paroymsal  Positional Vertigo,(vertigo) Paroymsal  Positional Vertigo,1.0,True
+Acne,Acne,1.0,True
+Urinary tract infection,Urinary tract infection,1.0,True
+Psoriasis,Psoriasis,1.0,True
+Psoriasis,Psoriasis,1.0,True
+Impetigo,Impetigo,1.0,True
+Impetigo,Impetigo,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
+Drug Reaction,Drug Reaction,1.0,True
+Hepatitis B,Hepatitis B,1.0,True
+Hepatitis D,Hepatitis D,1.0,True
+Alcoholic hepatitis,Alcoholic hepatitis,1.0,True
+Tuberculosis,Tuberculosis,1.0,True
+Varicose veins,Varicose veins,1.0,True
+Hyperthyroidism,Hyperthyroidism,1.0,True
+Osteoarthristis,Osteoarthristis,1.0,True
+Impetigo,Impetigo,1.0,True
