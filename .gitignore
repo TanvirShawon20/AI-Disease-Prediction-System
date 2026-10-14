@@ -3,7 +3,7 @@ venv/
 
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
 
 # Environment Variables
 .env
@@ -19,6 +19,10 @@ __pycache__/
 
 # Local Database
 instance/
+
+.pytest_cache/
+
+.ipynb_checkpoints/
 
 # Raw datasets (optional if you don't want to commit them)
 data/raw/

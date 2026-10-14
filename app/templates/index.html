@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}Home | AI Disease Prediction{% endblock %}
+
+{% block content %}
+<section class="card">
+    <h1>AI-Powered Disease Prediction System</h1>
+
+    <p>
+        Explore a machine-learning-based system that analyzes
+        selected symptoms and estimates possible disease categories.
+    </p>
+
+    <p>
+        This project is intended for academic and informational
+        purposes. Predictions are not medical diagnoses.
+    </p>
+
+    {% if current_user.is_authenticated %}
+        <a class="button" href="{{ url_for('auth.dashboard') }}">
+            Go to Dashboard
+        </a>
+    {% else %}
+        <a class="button" href="{{ url_for('auth.register') }}">
+            Create Account
+        </a>
+
+        <a class="button" href="{{ url_for('auth.login') }}">
+            Login
+        </a>
+    {% endif %}
+</section>
+{% endblock %}

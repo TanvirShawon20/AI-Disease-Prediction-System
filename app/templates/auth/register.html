@@ -1,0 +1,58 @@
+
+{% extends "base.html" %}
+
+{% block title %}Register | AI Disease Prediction{% endblock %}
+
+{% block content %}
+<section class="card">
+    <h1>Create an Account</h1>
+    <p>Register to access your personal dashboard.</p>
+
+    <form method="POST" action="{{ url_for('auth.register') }}">
+        {{ form.hidden_tag() }}
+
+        <div class="form-group">
+            {{ form.username.label }}
+            {{ form.username(autocomplete="username") }}
+
+            {% for error in form.username.errors %}
+                <div class="errors">{{ error }}</div>
+            {% endfor %}
+        </div>
+
+        <div class="form-group">
+            {{ form.email.label }}
+            {{ form.email(autocomplete="email") }}
+
+            {% for error in form.email.errors %}
+                <div class="errors">{{ error }}</div>
+            {% endfor %}
+        </div>
+
+        <div class="form-group">
+            {{ form.password.label }}
+            {{ form.password(autocomplete="new-password") }}
+
+            {% for error in form.password.errors %}
+                <div class="errors">{{ error }}</div>
+            {% endfor %}
+        </div>
+
+        <div class="form-group">
+            {{ form.confirm_password.label }}
+            {{ form.confirm_password(autocomplete="new-password") }}
+
+            {% for error in form.confirm_password.errors %}
+                <div class="errors">{{ error }}</div>
+            {% endfor %}
+        </div>
+
+        {{ form.submit(class="button") }}
+    </form>
+
+    <p>
+        Already registered?
+        <a href="{{ url_for('auth.login') }}">Log in</a>
+    </p>
+</section>
+{% endblock %}
